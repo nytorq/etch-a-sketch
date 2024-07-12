@@ -1,1 +1,1 @@
-# etch-a-sketch
+This is my submission for The Odin Project project, [Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch), under the Foundations portion of the course.

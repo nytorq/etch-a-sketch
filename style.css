@@ -1,0 +1,13 @@
+.sketchBoard {
+    border: 1px solid black;
+    display: flex;
+    margin: 0 auto;
+    width: 60vw;
+    padding: 25px;
+}
+
+.pixel {
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+}

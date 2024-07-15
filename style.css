@@ -1,13 +1,20 @@
 .sketchBoard {
-    border: 1px solid black;
+    border: 1px solid lightgray;
     display: flex;
+    flex-wrap: wrap;
     margin: 0 auto;
-    width: 60vw;
-    padding: 25px;
+    width: 160px;
+    /* background-color: rgb(171, 171, 171); */
 }
 
 .pixel {
-    border: 1px solid red;
-    height: 100px;
-    width: 100px;
+    height: 10px;
+    width: 10px;
+    /* background-color: white;
+    border: 1px solid gray;
+    box-sizing: border-box; */
+}
+
+.defaultColor {
+    background-color: blueviolet;
 }
